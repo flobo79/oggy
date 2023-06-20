@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e546755-45db-4c6f-a87b-555218d8fd19" name="Changes" comment="updated to run without docker" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Dumping_changes" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1687209576" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node/src/routes/public.route.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vue/src/assets/scss/bootstrap.scss" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QJTdH1iAb2xbO7w8vtHCCo8YlD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "editorconfig.notification": "null",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "16.20.0",
+    "javascript.nodejs.core.library.typings.version": "16.18.34",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "/Users/flobo/Webserver/oggy/node/src/routes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "/usr/local/lib/node_modules/eslint",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/usr/local/lib/node_modules/prettier",
+    "settings.editor.selected.configurable": "database.other",
+    "settings.editor.splitter.proportion": "0.31364563",
+    "ts.external.directory.path": "/Users/flobo/Webserver/oggy/node/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node/src/routes" />
+      <recent name="$PROJECT_DIR$/node/dist" />
+      <recent name="$PROJECT_DIR$/vue" />
+      <recent name="$PROJECT_DIR$/vue3" />
+      <recent name="$PROJECT_DIR$/vue3/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vue" />
+      <recent name="$PROJECT_DIR$/node/dist" />
+      <recent name="$PROJECT_DIR$/node" />
+      <recent name="$PROJECT_DIR$/vue/src/assets/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e546755-45db-4c6f-a87b-555218d8fd19" name="Changes" comment="" />
+      <created>1685070769991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685070769991</updated>
+      <workItem from="1685070771187" duration="1169000" />
+      <workItem from="1685072528223" duration="180000" />
+      <workItem from="1685072714842" duration="7478000" />
+      <workItem from="1685080577971" duration="10359000" />
+      <workItem from="1685174360134" duration="34092000" />
+      <workItem from="1685403482405" duration="2485000" />
+      <workItem from="1685951307170" duration="9061000" />
+      <workItem from="1685999784472" duration="2560000" />
+      <workItem from="1686130230129" duration="598000" />
+      <workItem from="1686192168153" duration="7056000" />
+      <workItem from="1686782744290" duration="49857000" />
+    </task>
+    <task id="LOCAL-00001" summary="dumping changes">
+      <created>1685228435151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685228435151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated to run without docker">
+      <created>1685999946863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685999946863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dumping changes" />
+    <MESSAGE value="updated and run" />
+    <MESSAGE value="updated to local runtime" />
+    <MESSAGE value="updated to run without docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated to run without docker" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
